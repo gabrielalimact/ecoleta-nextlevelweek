@@ -1,0 +1,24 @@
+{
+  "name": "ecoleta-nextlevelweek-master",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.3",
+    "sqlite3": "^5.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielalimact/ecoleta-nextlevelweek.git"
+  },
+  "author": "@gabrielalimact",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielalimact/ecoleta-nextlevelweek/issues"
+  },
+  "homepage": "https://github.com/gabrielalimact/ecoleta-nextlevelweek#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
