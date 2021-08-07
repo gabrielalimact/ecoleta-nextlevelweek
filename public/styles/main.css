@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 :root {
     --title-color: #516152;
     --primary-color: #34cb79;
@@ -36,3 +37,43 @@ input {
     font-family: 'Ubuntu', sans-serif;
 }
 /*---------------------------------------------------------------*/
+=======
+:root {
+    --title-color: #516152;
+    --primary-color: #34cb79;
+    --color: #f0f0f5;
+    --gray: #6c6c80;
+    --back: #dbdbdba8;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+     font-family: 'Ubuntu', sans-serif;
+     margin-top: 5vh;
+     
+    }           
+
+body {
+    background: var(--back);
+    -webkit-font-smoothing: antialiased;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Ubuntu', sans-serif;
+    color: var(--title-color);
+}
+
+input {
+    font-family: 'Ubuntu', sans-serif;
+}
+/*---------------------------------------------------------------*/
+>>>>>>> 8543901dac5d4b59742754627e66afdd6f9e5213
