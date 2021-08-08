@@ -18,7 +18,7 @@ A aplicação se trata de um site destinado à coleta de resíduos, podendo pesq
 
 - Cadastrar novo ponto de coleta
 
-![createnewpoint](https://media.discordapp.net/attachments/859803989750972446/873651280994779136/newPoint.png?width=402&height=468)
+![createnewpoint](https://media.discordapp.net/attachments/859803989750972446/873651280994779136/newPoint.png?width=832&height=968)
 
 ## Como executar a aplicação
 
